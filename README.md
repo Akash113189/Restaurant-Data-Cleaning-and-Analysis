@@ -30,6 +30,7 @@ This project involves cleaning a dataset of restaurant metadata obtained from Ka
 ## Repository Structure
 - `Cleaned The Resturent data.ipynb`: The Jupyter Notebook containing the data cleaning process.
 - `Cleaned_Resturent_Data.xlsx`: The cleaned dataset ready for analysis and visualization.
+- `Pre_Clean_Restaurant names and Metadata.csv`: The dataset before cleaning.
 - `README.md`: Project documentation.
 
 ## Future Enhancements
