@@ -1,4 +1,4 @@
-# Restaurant Data Cleaning and Analysis
+# Restaurant Data Cleaning Project
 
 # Overview
 
